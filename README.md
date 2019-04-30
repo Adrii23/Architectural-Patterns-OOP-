@@ -3,7 +3,7 @@
  
 We simulate the activity of a factory that is producing chairs. The factory has workers for this operations : 
 
-C = Cut seat
+C = Cut seat\n
 F = Assemble feet
 B = Assemble backrest
 S = Assemble stabilizer bar
